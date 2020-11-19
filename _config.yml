@@ -2,8 +2,8 @@ title:              CapitalCommerce
 email:              your-email@example.com
 description:        CONSULTING GROUP
 author:             Start Bootstrap
-baseurl:            "/capitalcommerce"
-url:                "https://kemtol.github.io/capitalcommerce/"
+baseurl:            ""
+url:                "https://capital-commerce.com"
 
 # Social Profiles
 twitter_username:   SBootstrap
